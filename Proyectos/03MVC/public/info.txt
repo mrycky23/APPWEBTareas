@@ -1,0 +1,12 @@
+Instalacion
+NodeJs
+Angular
+pnpm
+-----
+Direccionar a la ruta para crear el proyecto
+
+
+--Proyecto Angular
+
+Servicios => Servicios => ng g service Nombre_Servicio
+    HttpClient => controllers/proveedores.controllers.php?op=todos
